@@ -1,0 +1,14 @@
+".vs/" 
+".vs/" 
+*.bin
+*.v2
+*.vsidx
+*.suo
+*.wsuo
+*.json
+/Consumer
+/Producer/bin/Debug/net6.0
+/Producer
+/Services
+*.sln
+*.user
