@@ -1,3 +1,11 @@
+# Ignore build results
+*.exe
+*.dll
+*.o
+*.class
+/build/
+/dist/
+/target/
 ".vs/" 
 ".vs/" 
 *.bin
@@ -5,10 +13,10 @@
 *.vsidx
 *.suo
 *.wsuo
-*.json
-/Consumer
 /Producer/bin/Debug/net6.0
-/Producer
-/Services
-*.sln
 *.user
+[Dd]ebug
+[Oo]bj
+[Rr]elease
+.vs
+
